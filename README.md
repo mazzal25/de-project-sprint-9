@@ -1,3 +1,12 @@
+# ССЫЛКА на РЕПО 
+
+# https://console.yandex.cloud/folders/b1g2qqqk2lv9tctl8foe/container-registry/registries/crp81e38d37pnpqa41ti/overview
+
+
+
+
+
+
 # Helm-чарт для установки приложения в Kubernetes
 
 После успешной аутентификации в кластере склонируйте репозиторий этого чарта к себе на компьютер.
