@@ -16,7 +16,7 @@
 ```yaml
 image:
   repository: "адрес образа в формате cr.yandex/<registry id>/<repo name>"
-  pullPolicy: IfNotPresent
+  pullPolicy : IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "версия образа в реджистри"
 ```
