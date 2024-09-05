@@ -1,3 +1,5 @@
+Вопросов нет. 
+
 # ССЫЛКА на РЕПО 
 
 # https://console.yandex.cloud/folders/b1g2qqqk2lv9tctl8foe/container-registry/registries/crp81e38d37pnpqa41ti/overview
